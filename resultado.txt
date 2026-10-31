@@ -1,0 +1,19 @@
+Semente: 1090
+Intervalo: 0 a 100000 (inclusive)
+Rehash: sondagem linear
+Elementos gerados: 100
+Posicoes da matriz: 100
+Limite de ocupacao: 90 (90%)
+Elementos inseridos: 90
+Insercoes bloqueadas pelo limite: 10
+Total de colisoes na insercao: 247
+Tres elementos que mais colidiram:
+1. Valor 55998: 28 colisoes
+2. Valor 52201: 26 colisoes
+3. Valor 19454: 23 colisoes
+Posicoes livres (indices de 0 a 99): 35, 36, 37, 46, 47, 48, 49, 50, 88, 90
+Total de posicoes livres: 10
+Teste de busca dos tres elementos:
+Valor 55998 encontrado na posicao 26 apos 29 sondagens
+Valor 52201 encontrado na posicao 27 apos 27 sondagens
+Valor 19454 encontrado na posicao 77 apos 24 sondagens
